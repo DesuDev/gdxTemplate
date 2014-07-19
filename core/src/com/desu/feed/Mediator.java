@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 import com.badlogic.gdx.scenes.scene2d.Stage;
 import com.desu.feed.MainCoreClass;
+import com.desu.feed.screens.Widgets;
 
 public class Mediator {
 	
@@ -26,7 +27,7 @@ public class Mediator {
 		
 		stage = newStage;
 		
-		model = new Model_General(this);
+		//model = new Model_General(this);
 		
 		
 		

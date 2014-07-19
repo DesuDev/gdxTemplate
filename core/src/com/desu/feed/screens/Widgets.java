@@ -1,4 +1,4 @@
-package com.desu.feed;
+package com.desu.feed.screens;
 
 import java.util.ArrayList;
 
@@ -14,6 +14,7 @@ import com.badlogic.gdx.scenes.scene2d.ui.TextField;
 import com.badlogic.gdx.scenes.scene2d.ui.TextField.TextFieldListener;
 import com.badlogic.gdx.scenes.scene2d.utils.ChangeListener;
 import com.badlogic.gdx.scenes.scene2d.utils.ChangeListener.ChangeEvent;
+import com.desu.feed.Mediator;
 import com.desu.feed.logic.Logic_SelectBox;
 
 public class Widgets {

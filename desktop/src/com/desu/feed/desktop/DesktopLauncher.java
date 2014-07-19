@@ -2,8 +2,7 @@ package com.desu.feed.desktop;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import com.desu.feed.MainCoreClass;
-import com.desu.feed.UITest;
+import com.desu.feed.*;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {
