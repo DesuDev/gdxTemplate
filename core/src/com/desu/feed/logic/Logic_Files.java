@@ -220,7 +220,7 @@ public class Logic_Files {
 		
 		
 		
-		targetsBlob = targetsBlob + "\n" + file + "$" + url;
+		targetsBlob = targetsBlob + "\n" + file + "%" + url + "$" + "y";
 		//targetsBlob = targetsBlob + "\n" + url;
 		targetsFile.writeString(targetsBlob, false);
 		
